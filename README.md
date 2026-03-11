@@ -1,20 +1,20 @@
-# 🚀 DevPulse – Freelancer Dashboard (MERN Stack)
+# 🚀 Mern_Freelancer – Freelancer Dashboard (MERN Stack)
 
 ## 👩‍🎓 Student Information
 **Name:** BIDVI KADAMBARI SANJAY  
 **Roll Number:** 10  
 **Batch:** B1  
-**Project Name:** DevPulse (Freelancer Dashboard)
+**Project Name:** Mern_Freelancer (Freelancer Dashboard)
 
 ---
 
 # 📌 Project Overview
 
-DevPulse is a **Freelancer Dashboard Web Application** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+Mern_Freelancer is a **Freelancer Dashboard Web Application** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 
-The system helps manage freelancer profiles, track payments, and monitor project deadlines through a modern dashboard interface.
+The system allows users to manage freelancer profiles, track project payments, and monitor project deadlines through a modern dashboard interface.
 
-This project demonstrates **full-stack development including database management, REST APIs, and responsive frontend UI**.
+This project demonstrates **full-stack development including database integration, REST APIs, and responsive frontend UI using modern technologies.**
 
 ---
 
@@ -56,49 +56,11 @@ This project demonstrates **full-stack development including database management
 
 ## UI Features
 - Responsive Dashboard
-- Modern UI with Tailwind CSS
+- Modern UI using Tailwind CSS
 - Card-based Freelancer Layout
 - Toast Notifications
-- Clean Navigation System
+- Clean Navigation Interface
 
 ---
 
 # 📂 Project Structure
-
-MERN_FREELANCER
-
-backend  
-│  
-├── config  
-│   └── db.js  
-│  
-├── controllers  
-│   └── freelancerController.js  
-│  
-├── models  
-│   └── freelancerModel.js  
-│  
-├── routes  
-│   └── freelancerRoutes.js  
-│  
-└── server.js  
-
-frontend  
-│  
-├── components  
-│   ├── Navbar.jsx  
-│   ├── FreelancerCard.jsx  
-│   └── FreelancerNotFound.jsx  
-│  
-├── pages  
-│   ├── HomePage.jsx  
-│   ├── CreatePage.jsx  
-│   └── FreelancerDetailPage.jsx  
-│  
-├── lib  
-│   └── axios.js  
-│  
-├── App.jsx  
-└── main.jsx  
-
----
