@@ -1,16 +1,66 @@
-# React + Vite
+# 🚀 Mern_Freelancer – Freelancer Dashboard (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👩‍🎓 Student Information
+**Name:** BIDVI KADAMBARI SANJAY  
+**Roll Number:** 10  
+**Batch:** B1  
+**Project Name:** Mern_Freelancer (Freelancer Dashboard)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 📌 Project Overview
 
-## React Compiler
+Mern_Freelancer is a **Freelancer Dashboard Web Application** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The system allows users to manage freelancer profiles, track project payments, and monitor project deadlines through a modern dashboard interface.
 
-## Expanding the ESLint configuration
+This project demonstrates **full-stack development including database integration, REST APIs, and responsive frontend UI using modern technologies.**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+- React (Vite)
+- Tailwind CSS
+- DaisyUI
+- React Router
+- Axios
+- React Hot Toast
+- Lucide React Icons
+
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Dotenv
+- CORS
+
+---
+
+# ✨ Features
+
+## Freelancer Management
+- Add Freelancer
+- View Freelancer List
+- View Freelancer Details
+- Update Freelancer Information
+- Delete Freelancer
+
+## Project Tracking
+- Track Freelancer Payment
+- Track Project Deadlines
+- View Skills & Experience
+- Manage Hourly Rate
+
+## UI Features
+- Responsive Dashboard
+- Modern UI using Tailwind CSS
+- Card-based Freelancer Layout
+- Toast Notifications
+- Clean Navigation Interface
+
+---
+
+# 📂 Project Structure
