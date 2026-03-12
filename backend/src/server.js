@@ -28,6 +28,6 @@ app.get("/", (req, res) => {
 
 connectDB().then(() => {
   app.listen(PORT, () => {
-    console.log(`Server running at http://localhost:${PORT}`);
+    console.log(`Server running at https://mern-freelancer-render-static-site.onrender.com`);
   });
 });
